@@ -1,9 +1,14 @@
 .menu{
-    background-color: green;
+    /* background-color: green; */
+
 }
 .container{
 background-color: blue;
 }
 .footer{
     background-color: red;
+}
+.logo{
+    width: 20px;
+    height: 20px;
 }
